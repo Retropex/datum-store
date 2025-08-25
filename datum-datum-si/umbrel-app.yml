@@ -75,7 +75,7 @@ widgets:
   - id: "stats"
     type: "three-stats"
     refresh: "30s"
-    endpoint: "datum-datum-si:21000/umbrel-api"
+    endpoint: "datum-datum-si:7152/umbrel-api"
     link: ""
     example:
       type: "three-stats"

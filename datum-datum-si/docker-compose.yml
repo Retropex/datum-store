@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: datum-datum-si_datum_1
+      APP_HOST: datum-datum-si_datum-datum-si_1
       APP_PORT: 7152
 
   datum-datum-si:

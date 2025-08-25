@@ -1,7 +1,7 @@
 manifestVersion: 1.1
 id: datum-datum-si
 category: bitcoin
-name: DATUM
+name: DATUM SI
 version: "v0.4.0-beta"
 icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps-gallery/refs/heads/master/datum/icon.svg
 tagline: Self-sovereign Bitcoin mining
